@@ -2,7 +2,7 @@
 
 ### *Wavelet Transform–based ARIMA–XGBoost Hybrid Model*
 
-Repositori ini berisi kode, visualisasi, dan dokumentasi penelitian mengenai peramalan inflasi Indonesia menggunakan pendekatan **hybrid Wavelet Transform–based ARIMA–XGBoost**. Penelitian ini dilakukan menggunakan data inflasi bulanan Indonesia periode **Desember 2002 – Agustus 2025** dari Bank Indonesia.
+Repositori ini berisi kode, visualisasi, dan dokumentasi penelitian saya bersama rekan saya, Rahma mengenai peramalan inflasi Indonesia menggunakan pendekatan **hybrid Wavelet Transform–based ARIMA–XGBoost**. Penelitian ini dilakukan menggunakan data inflasi bulanan Indonesia periode **Desember 2002 – Agustus 2025** dari Bank Indonesia.
 
 Bagi saya secara pribadi, proyek ini menjadi bagian penting dari portofolio magang karena menunjukkan kompetensi dalam:
 
